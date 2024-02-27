@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=2757FF&height=160&section=header&text=ESTsoft%20WASSUP%202기&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=FFFFFF)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=2757FF&height=160&section=header&text=ESTsoft%20WASSUP%202기&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000" />
 
 <h3 align="center">🙋‍♀️ About Me </h3>
 <p align="center">
@@ -29,8 +29,10 @@
 <summary>
   🐍 Python
 </summary>
-  - [x] Git push, pull 실습
-  - [x] Markdown, 자료형(숫자형 ~ 문자열 자료형:역슬래시) 실습
+  <p>
+    - ✔ Git push, pull 실습<br>
+    - ✔ Markdown, 자료형(숫자형 ~ 문자열 자료형:역슬래시) 실습
+  </p>
 </details>
 
 ## 📚 비즈니스&UI/UX 기획 강의
@@ -39,7 +41,7 @@
 <summary>
   💼 비즈니스
 </summary>
-  - [x] 퍼소나 모델링 실습
+  - ✔ 퍼소나 모델링 실습
 </details>
 <details>
 <summary>
