@@ -32,7 +32,8 @@
   <p>
     - ✔ Git push, pull 실습<br>
     - ✔ Markdown, 자료형(숫자형 ~ 문자열 자료형:역슬래시) 실습<br>
-    - ✔ 자료형(문자열 자료형:연산 ~ copy) 실습
+    - ✔ 자료형(문자열 자료형:연산 ~ copy) 실습<br>
+    - ✔ 자료형(list ~ bool) 실습
   </p>
 </details>
 
