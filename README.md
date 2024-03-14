@@ -39,7 +39,8 @@
     - ✔ 함수와 입출력 실습<br>
     - ✔ 클래스와 예외처리(클래스) 실습<br>
     - ✔ 내장함수와 라이브러리(feat.예외처리 마무리) 실습<br>
-    - ✔ 라이브러리 마무리 실습
+    - ✔ 라이브러리 마무리 실습<br>
+    - ✔ BeautifulSoup, Requests(네이버 url excel 처리까지) 실습
   </p>
 </details>
 
@@ -51,7 +52,8 @@
 </summary>
   - ✔ 퍼소나 모델링 실습<br>
   - ✔ OKR 작성 실습<br>
-  - ✔ 컨셉맵 작성 실습
+  - ✔ 컨셉맵 작성 실습<br>
+  - ✔ 실시간 협업툴 Notion Database 기능 실습
 </details>
 <details>
 <summary>
