@@ -40,7 +40,8 @@
     - ✔ 클래스와 예외처리(클래스) 실습<br>
     - ✔ 내장함수와 라이브러리(feat.예외처리 마무리) 실습<br>
     - ✔ 라이브러리 마무리 실습<br>
-    - ✔ BeautifulSoup, Requests(네이버 url excel 처리까지) 실습
+    - ✔ BeautifulSoup, Requests(네이버 url excel 처리까지) 실습<br>
+    - ✔ Requests 마무리, API(공공데이터 ~ 네이버 지식인) 실습
   </p>
 </details>
 
