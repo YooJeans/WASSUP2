@@ -41,7 +41,8 @@
     - ✔ 내장함수와 라이브러리(feat.예외처리 마무리) 실습<br>
     - ✔ 라이브러리 마무리 실습<br>
     - ✔ BeautifulSoup, Requests(네이버 url excel 처리까지) 실습<br>
-    - ✔ Requests 마무리, API(공공데이터 ~ 네이버 지식인) 실습
+    - ✔ Requests 마무리, API(공공데이터 ~ 네이버 지식인) 실습<br>
+    - ✔ Selenium 실습
   </p>
 </details>
 
@@ -54,7 +55,8 @@
   - ✔ 퍼소나 모델링 실습<br>
   - ✔ OKR 작성 실습<br>
   - ✔ 컨셉맵 작성 실습<br>
-  - ✔ 실시간 협업툴 Notion Database 기능 실습
+  - ✔ 실시간 협업툴 Notion Database 기능 실습<br>
+  - ✔ AARRR 작성 실습
 </details>
 <details>
 <summary>
