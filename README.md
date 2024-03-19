@@ -42,7 +42,8 @@
     - ✔ 라이브러리 마무리 실습<br>
     - ✔ BeautifulSoup, Requests(네이버 url excel 처리까지) 실습<br>
     - ✔ Requests 마무리, API(공공데이터 ~ 네이버 지식인) 실습<br>
-    - ✔ Selenium 실습
+    - ✔ Selenium 실습<br>
+    - ✔ 수집 자동화(python file build) 실습
   </p>
 </details>
 
@@ -56,7 +57,8 @@
   - ✔ OKR 작성 실습<br>
   - ✔ 컨셉맵 작성 실습<br>
   - ✔ 실시간 협업툴 Notion Database 기능 실습<br>
-  - ✔ AARRR 작성 실습
+  - ✔ AARRR 작성 실습<br>
+  - ✔ Hooked Model 작성 및 개선안 도출 실습
 </details>
 <details>
 <summary>
