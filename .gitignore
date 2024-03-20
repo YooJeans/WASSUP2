@@ -15,6 +15,9 @@ sample/
 # output
 output
 
+# data
+data/
+
 # Distribution / packaging
 .Python
 build/
