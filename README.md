@@ -44,7 +44,8 @@
     - ✔ Requests 마무리, API(공공데이터 ~ 네이버 지식인) 실습<br>
     - ✔ Selenium 실습<br>
     - ✔ 수집 자동화(python file build) 실습<br>
-    - ✔ Numpy 실습
+    - ✔ Numpy 실습<br>
+    - ✔ Pandas 실습
   </p>
 </details>
 
