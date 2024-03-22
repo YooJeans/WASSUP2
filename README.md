@@ -45,7 +45,8 @@
     - ✔ Selenium 실습<br>
     - ✔ 수집 자동화(python file build) 실습<br>
     - ✔ Numpy 실습<br>
-    - ✔ Pandas 실습
+    - ✔ Pandas 실습<br>
+    - ✔ Pandas 데이터 조작 실습(with titanic data!)
   </p>
 </details>
 
