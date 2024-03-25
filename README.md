@@ -46,7 +46,8 @@
     - ✔ 수집 자동화(python file build) 실습<br>
     - ✔ Numpy 실습<br>
     - ✔ Pandas 실습<br>
-    - ✔ Pandas 데이터 조작 실습(with titanic data!)
+    - ✔ Pandas 데이터 조작 실습(with titanic data!)<br>
+    - ✔ Pandas 인덱스 조작 ~ GroupBy 실습
   </p>
 </details>
 
