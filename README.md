@@ -47,7 +47,8 @@
     - ✔ Numpy 실습<br>
     - ✔ Pandas 실습<br>
     - ✔ Pandas 데이터 조작 실습(with titanic data!)<br>
-    - ✔ Pandas 인덱스 조작 ~ GroupBy 실습
+    - ✔ Pandas 인덱스 조작 ~ GroupBy 실습<br>
+    - ✔ Pandas pivot table ~ 시계열 실습
   </p>
 </details>
 
@@ -63,7 +64,8 @@
   - ✔ 실시간 협업툴 Notion Database 기능 실습<br>
   - ✔ AARRR 작성 실습<br>
   - ✔ Hooked Model 작성 및 개선안 도출 실습<br>
-  - ✔ 브랜드 재구성 실습
+  - ✔ 브랜드 재구성 실습<br>
+  - ✔ Looker Studio를 이용한 AARRR 시각화 실습
 </details>
 <details>
 <summary>
