@@ -48,7 +48,8 @@
     - ✔ Pandas 실습<br>
     - ✔ Pandas 데이터 조작 실습(with titanic data!)<br>
     - ✔ Pandas 인덱스 조작 ~ GroupBy 실습<br>
-    - ✔ Pandas pivot table ~ 시계열 실습
+    - ✔ Pandas pivot table ~ 시계열 실습<br>
+    - ✔ matplotlib 실습
   </p>
 </details>
 
@@ -65,7 +66,8 @@
   - ✔ AARRR 작성 실습<br>
   - ✔ Hooked Model 작성 및 개선안 도출 실습<br>
   - ✔ 브랜드 재구성 실습<br>
-  - ✔ Looker Studio를 이용한 AARRR 시각화 실습
+  - ✔ Looker Studio를 이용한 AARRR 시각화 실습<br>
+  - ✔ GTM 실습
 </details>
 <details>
 <summary>
