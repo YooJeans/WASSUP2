@@ -49,7 +49,8 @@
     - ✔ Pandas 데이터 조작 실습(with titanic data!)<br>
     - ✔ Pandas 인덱스 조작 ~ GroupBy 실습<br>
     - ✔ Pandas pivot table ~ 시계열 실습<br>
-    - ✔ matplotlib 실습
+    - ✔ matplotlib 실습<br>
+    - ✔ seaborn, pandas visualization, wordcloud 실습
   </p>
 </details>
 
@@ -73,5 +74,6 @@
 <summary>
   🎨 UI/UX
 </summary>
-  - ✔ 서비스 레이아웃 개선 실습
+  - ✔ 서비스 레이아웃 개선 실습<br>
+  - ✔ Axure, Figma 실습
 </details>
