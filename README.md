@@ -50,7 +50,9 @@
     - ✔ Pandas 인덱스 조작 ~ GroupBy 실습<br>
     - ✔ Pandas pivot table ~ 시계열 실습<br>
     - ✔ matplotlib 실습<br>
-    - ✔ seaborn, pandas visualization, wordcloud 실습
+    - ✔ seaborn, pandas visualization, wordcloud 실습<br>
+    - ✔ Service Analysis Project 실습<br>
+    - ✔ Data Analysis Mini Project
   </p>
 </details>
 
