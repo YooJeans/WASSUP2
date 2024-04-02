@@ -52,7 +52,8 @@
     - ✔ matplotlib 실습<br>
     - ✔ seaborn, pandas visualization, wordcloud 실습<br>
     - ✔ Service Analysis Project 실습<br>
-    - ✔ Data Analysis Mini Project
+    - ✔ Data Analysis Mini Project<br>
+    - ✔ Machine Learning (경사하강법 ~ Confusion Matrix)
   </p>
 </details>
 
